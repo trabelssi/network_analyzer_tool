@@ -138,6 +138,6 @@ dmypy.json
 Thumbs.db
 
 # Project specific
-*.png
 output/
 captures/
+Network\ Traffic\ Analyzer\ Tool\ images/
