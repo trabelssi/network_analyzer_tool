@@ -40,6 +40,16 @@ This Traffic Analysis Tool is designed to enhance network security and efficienc
    - Sign up on [IPStack](https://ipstack.com/) and obtain your API key.
    - Replace `'your_ipstack_api_key_here'` with your actual API key in the script.
 
+## Generate Example Data
+
+To test the tool without live network traffic:
+
+```bash
+python generate_example_data.py
+```
+
+This will create `example_traffic.pcap` with 100 sample packets for testing.
+
 ## Usage
 
 1. **Run the script**:
